@@ -16,9 +16,5 @@ class MainActivity : AppCompatActivity() {
         goToFirstExampleButton.setOnClickListener {
             startActivity(Intent(this, FirstExampleActivity::class.java))
         }
-
-        goToFirstExerciseButton.setOnClickListener {
-            startActivity(Intent(this, FirstExerciseActivity::class.java))
-        }
     }
 }
