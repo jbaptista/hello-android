@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Treinamento Hello Android</string>
+    <string name="hello_android">Hello, Android!</string>
+    <string name="example_1">Example 1</string>
+    <string name="hands_on_1">Hands-on 1</string>
+    <string name="hands_on_2">Hands-on 2</string>
+    <string name="first_grade_input_hint">Nota da primeira avaliação</string>
+    <string name="second_grade_input_hint">Nota da segunda avaliação</string>
+    <string name="number_of_absences_input_hint">Número de faltas</string>
+    <string name="calculate_button_text">Foi aprovado?</string>
+    <string name="counter_label">Contador</string>
+    <string name="subtract_button_label">-</string>
+    <string name="add_button_label">+</string>
+</resources>
